@@ -1,7 +1,12 @@
 Computer Science and Engineering Studies
 ====
 
-Information Theory 
-Computation Theory 
-Mathematics Theory 
-Applied Theory 
+Computer Science:
+- Information Theory
+- Computation Theory
+
+Mathematics
+
+Computer Engineering:
+- Physics/Electronics
+- Software/Hardware Engineering
