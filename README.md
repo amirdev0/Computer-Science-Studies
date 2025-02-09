@@ -8,5 +8,5 @@ Computer Science:
 Mathematics
 
 Computer Engineering:
-- Physics/Electronics
-- Software/Hardware Engineering
+- Hardware Engineering
+- Software Engineering
